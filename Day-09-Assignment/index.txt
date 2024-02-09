@@ -1,0 +1,20 @@
+
+
+Que => Which of the following are examples of node modules?
+
+    a. Express
+
+    b. Body-parser
+
+    c. Socket.io
+
+    d. All of the above
+
+
+Ans => d. All of the Above
+
+Explanation  => All three modules are third-party packages installed via Node Package Manager. 
+                Each module installed from npm becomes a part of the node modules directory.
+                That's why all three modules are examples of node modules and the correct option
+                is {d} All of the above.
+             
