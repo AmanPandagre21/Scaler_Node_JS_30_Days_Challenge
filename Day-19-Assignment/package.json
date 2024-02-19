@@ -1,0 +1,15 @@
+{
+  "name": "day-19-assignment",
+  "version": "1.0.0",
+  "description": "Scaler Day 19 Assignment of 30 days of Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Pandagre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.3"
+  }
+}
